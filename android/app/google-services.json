@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "199013147936",
+    "project_id": "zmstoreapp",
+    "storage_bucket": "zmstoreapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199013147936:android:aaa1d6b0631ca512c5a345",
+        "android_client_info": {
+          "package_name": "com.example.zmstoreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199013147936-hqfn15h79bfs1fj4e6nbvb3176gf5b1d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zmstoreapp",
+            "certificate_hash": "d3f2f60bd4089c3db7bafad719d9aaa857f4c761"
+          }
+        },
+        {
+          "client_id": "199013147936-n116gvdcue54hisk93opj1dscpstj4q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBivNhTRJYVNToQrXGRjchd3CCK4lHnJPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199013147936-8q3hc690l3nmvu40m3vs208svmnpp967.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
